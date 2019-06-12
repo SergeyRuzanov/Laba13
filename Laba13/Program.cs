@@ -46,7 +46,7 @@ namespace Laba13
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine(journal_2);
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
